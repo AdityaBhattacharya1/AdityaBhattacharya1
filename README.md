@@ -4,17 +4,17 @@
 Section name  | Go To
 ------------- | -------------
   WhoAmI      | [↓](#WhoAmI)<a name="WhoAmI"></a>
-Technologies  | [↓](#Technologies_I_use)<a name="Technologies_I_use"></a>
-Hobbies and Interests| [↓](#Hobbies_and_Interests)<a name="Hobbies_and_Interests"></a>
+Technologies  | [↓](#Technologies)<a name="Technologies"></a>
+Hobbies and Interests| [↓](#Hobbies)<a name="Hobbies"></a>
 
 
 
 ## WhoAmI
 I am currently a high-schooler and live in India. I am a MERN stack developer and also have a bit of experience with networking and cybersecurity.
 
-## Technologies I use:
+## Technologies:
 Apart from the MERN stack, i.e, **M**ongoDB **E**xpress **R**eact.js **N**ode.js
-I use:-
+I use the following technologies for the respective headings:-
 
 ***Front-end:***
 * HTML
@@ -35,7 +35,7 @@ I use:-
 * Flutter
 
 <details>
-    <summary>Hobbies and Interests</summary>
+    <summary>Hobbies</summary>
      <p>In my freetime I like to read books and if time persists (which it seldom does, might I add), I play videogames. </p>
 </details>
 
