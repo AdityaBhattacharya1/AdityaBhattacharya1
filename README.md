@@ -35,13 +35,16 @@ I use the following technologies for the respective headings:-
 * Java
 * Flutter
 
-***Hobbies***
+
+
+## Hobbies
 <p>
 In my freetime I like to read books and if time persists (which it seldom does, might I add), I play videogames. 
 </p>
 
 
-***Roadmap***
+
+## Roadmap
 - [ ] Add my personal website as a repository
 - [ ] Add a Python project as repository
 - [ ] Successfully contribute to open source
