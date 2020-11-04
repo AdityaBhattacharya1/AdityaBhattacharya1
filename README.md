@@ -19,12 +19,21 @@ I use the following technologies for the respective headings:-
 
 ***Front-end:***
 * HTML
+ * Bootstrap
 * CSS
+ * SCSS 
+ * LCSS
 * JavaScript
+  * JQuery
+  * Svelte
+  
 * Django (Python)
 
 ***Back-end:***
 * Python
+  * Django
+  * Pandas
+  * Keras and Tensorflow
 * C
 * C++
 * SQL (MySQL and MSSQL)
