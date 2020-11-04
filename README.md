@@ -1,2 +1,0 @@
-# AdityaBhattacharya
-WhoAmI
