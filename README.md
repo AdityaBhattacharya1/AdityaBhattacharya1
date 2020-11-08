@@ -19,13 +19,9 @@ I use the following technologies for the respective headings:-
 
 ***Front-end:***
 * HTML
- * Bootstrap
 * CSS
- * SCSS 
- * LCSS
+  * Bootstrap
 * JavaScript
-  * JQuery
-  * Svelte
   
 * Django (Python)
 
@@ -35,13 +31,10 @@ I use the following technologies for the respective headings:-
   * Pandas
   * Keras and Tensorflow
 * C
-* C++
-* SQL (MySQL and MSSQL)
-
-
+* SQL
 
 ***Mobile-application development:***
-* Java
+* React Native
 * Flutter
 
 
