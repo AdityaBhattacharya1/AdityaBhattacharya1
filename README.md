@@ -15,40 +15,36 @@ I am currently a high-schooler and live in India. I am a MERN stack developer an
 
 ## Technologies:
 Apart from the MERN stack, i.e, **M**ongoDB **E**xpress **R**eact.js **N**ode.js
-I use the following technologies for the respective headings:-
+I use the following technologies for the respective purposes:-
 
 ***Front-end:***
 * HTML
 * CSS
   * Bootstrap
 * JavaScript
-  
 * Django (Python)
 
 ***Back-end:***
 * Python
-  * Django
-  * Pandas
-  * Keras and Tensorflow
 * C
 * SQL
 
 ***Mobile-application development:***
 * React Native
-* Flutter
+* Kotlin
 
 
 
 ## Hobbies
 <p>
-In my freetime I like to read books and if time persists (which it seldom does, might I add), I play videogames. 
+In my freetime I like to read books, learn more about different languages, play the piano or indulge in videogames. 
 </p>
 
 
 
-## Roadmap
-- [ ] Add my personal website as a repository
-- [ ] Add a Python project as repository
+## Roadmap (On Github)
+- [ ] Add my personal website here
+- [ ] Add a language-specific project here
 - [ ] Successfully contribute to open source
 - [ ] Populate my Github profiles and get some stars
 
