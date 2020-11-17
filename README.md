@@ -11,7 +11,7 @@ Roadmap       | [↓](#Hobbies)<a name="Roadmap"></a>
 
 
 ## WhoAmI
-I am currently a high-schooler and live in India. I am a MERN stack developer and also have a bit of experience with networking and cybersecurity.
+I am currently a high-schooler and live in India. I am a MERN stack developer. Hope my profile interests you.
 
 ## Technologies:
 Apart from the MERN stack, i.e, **M**ongoDB **E**xpress **R**eact.js **N**ode.js
