@@ -14,9 +14,9 @@ In my freetime I like to read books, learn more about different languages, play 
 - [ ] Populate my Github profiles and get some stars
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhattacharya1&theme=react" alt="Aditya Bhattacharya's top languages">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhattacharya1)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&line_height=27&v=5&theme=react" alt="Aditya Bhattacharya's Github Stats" />
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1)](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&show_icons=true)
 
 
