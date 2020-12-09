@@ -20,8 +20,8 @@ In my freetime I like to read books, learn more about different languages, play 
 
 <hr>
   Psst..Still here? Enjoy some jokes.
-<br>
-<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A" alt="Jokes Card" />
+<br><br>
+<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A&textColor=%5FD4F4" alt="Jokes Card" />
 
 <hr>
 
