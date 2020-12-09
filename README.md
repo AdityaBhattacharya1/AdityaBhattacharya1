@@ -18,5 +18,10 @@ In my freetime I like to read books, learn more about different languages, play 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&line_height=27&v=5&theme=react" alt="Aditya Bhattacharya's Github Stats" />
 
+<hr>
+  Psst..Still here? Enjoy some jokes.
+<br>
+<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A" alt="Jokes Card" />
 
+<hr>
 
