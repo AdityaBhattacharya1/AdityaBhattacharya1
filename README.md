@@ -2,7 +2,7 @@ Hey there, I am Aditya Bhattacharya 👋
 <hr><br>
 I am currently a high-schooler and live in India. I am a MERN stack developer. Hope my profile interests you.
 <hr><br>
-In my freetime I like to read books, learn more about different languages, play the piano or indulge in videogames. 
+In my freetime I like to read books, learn more about different languages (programming or not), play the piano or play videogames. 
 <br>
 
 
@@ -21,7 +21,7 @@ In my freetime I like to read books, learn more about different languages, play 
 <hr>
   Psst..Still here? Enjoy some jokes.
 <br><br>
-<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A&textColor=%5FD4F4" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A&textColor=%5FD4F4&textColor=%FFF" alt="Jokes Card" />
 
 <hr>
 
