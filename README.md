@@ -9,7 +9,7 @@ In my freetime I like to read books, learn more about different languages (progr
 
 ## Roadmap (On Github)
 - [ ] Add my personal website here
-- [x] Add a language-specific project here
+- [ ] Add a language-specific project here
 - [ ] Successfully contribute to open source
 - [ ] Populate my Github profiles and get some stars
 
