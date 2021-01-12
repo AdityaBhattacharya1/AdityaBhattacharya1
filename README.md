@@ -1,4 +1,5 @@
-<img src="https://tenor.com/Z1oF.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/3o7bu6KDIpS4OFRP6o/giphy.gif" width="140" height="140" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhattacharya1&theme=react" alt="Aditya Bhattacharya's top languages">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&line_height=27&v=5&theme=react" alt="Aditya Bhattacharya's Github Stats" />
