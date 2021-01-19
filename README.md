@@ -13,5 +13,4 @@
   Psst.. Still here? Enjoy some jokes.
 <br><br>
 <img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A&textColor=%5FD4F4&textColor=%FFF" alt="Jokes Card" />
-
 <hr>
