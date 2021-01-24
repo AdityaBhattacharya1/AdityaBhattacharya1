@@ -8,6 +8,9 @@
 <a href="https://github.com/AdityaBhattacharya1/Travel-Agency-Sample"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Travel-Agency-Sample&theme=react" alt="" />
 </a>
 
+<a href="https://github.com/AdityaBhattacharya1/News-Summariser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=News-Summariser&theme=react" alt="" />
+</a>
+
 
 <hr>
   Psst.. Still here? Enjoy some jokes.
