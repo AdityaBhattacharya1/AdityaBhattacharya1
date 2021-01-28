@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&line_height=27&v=5&theme=react" alt="Aditya Bhattacharya's Github Stats" />
 
 
-<a href="https://github.com/AdityaBhattacharya1/Travel-Agency-Sample"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Travel-Agency-Sample&theme=react" alt="" />
+<a href="https://github.com/AdityaBhattacharya1/Codepen-Clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Codepen-Clone&theme=react" alt="" />
 </a>
 
 <a href="https://github.com/AdityaBhattacharya1/News-Summariser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=News-Summariser&theme=react" alt="" />
