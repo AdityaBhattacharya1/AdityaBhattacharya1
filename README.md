@@ -8,7 +8,7 @@
 <a href="https://github.com/AdityaBhattacharya1/Codepen-Clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Codepen-Clone&theme=react" alt="" />
 </a>
 
-<a href="https://github.com/AdityaBhattacharya1/News-Summariser"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=News-Summariser&theme=react" alt="" />
+<a href="https://github.com/AdityaBhattacharya1/Neural-Networks-From-Scratch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Neural-Networks-From-Scratch&theme=react" alt="" />
 </a>
 
 <a href="https://github.com/AdityaBhattacharya1/SugarMountain"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=SugarMountain&theme=react" alt="" />
