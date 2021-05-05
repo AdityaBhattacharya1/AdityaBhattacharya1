@@ -8,9 +8,6 @@
 <a href="https://github.com/AdityaBhattacharya1/lorem-travels"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=lorem-travels&theme=react" alt="" />
 </a>
 
-<a href="https://github.com/AdityaBhattacharya1/Neural-Networks-From-Scratch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Neural-Networks-From-Scratch&theme=react" alt="" />
-</a>
-
 <a href="https://github.com/AdityaBhattacharya1/Codepen-Clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaBhattacharya1&repo=Codepen-Clone&theme=react" alt="" />
 </a>
 
