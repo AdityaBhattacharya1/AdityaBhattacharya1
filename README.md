@@ -15,5 +15,5 @@
 <hr>
   Psst.. Still here? Enjoy some jokes.
 <br><br>
-<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A&textColor=%5FD4F4&textColor=%FFF" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=react&qcolor=%5FD4F4&acolor=%FFF&borderColor=%20232A&textColor=%5FD4F4&textColor=%FFF" alt="Jokes Card" onerror="this.onerror=null;this.src='https://preview.redd.it/025bp3xxpp361.png?width=600&format=png&auto=webp&s=2df27916458601d83b16011b39d3df20f042c906';" />
 
