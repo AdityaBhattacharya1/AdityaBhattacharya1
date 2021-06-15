@@ -4,7 +4,7 @@
 
 
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&theme=react" />
 
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AdityaBhattacharya1&theme=react-dark" />
