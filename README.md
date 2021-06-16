@@ -5,10 +5,10 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&theme=react&count_private=true&hide_border=true&custom_title=My Github Statistics&bg_color=45,21222A,110121" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&theme=react&count_private=true&hide_border=true&custom_title=My Github Statistics&bg_color=35,21222A,110121" />
 
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=AdityaBhattacharya1&theme=react-dark&hide_border=true" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=AdityaBhattacharya1&theme=react-dark&hide_border=true&bg_color=110121" />
 
 
 
