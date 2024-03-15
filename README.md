@@ -5,7 +5,7 @@
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaBhattacharya1&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=35,21222A,110121)
 
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=AdityaBhattacharya1&theme=react-dark&hide_border=true&bg_color=110121" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaBhattacharya1&theme=react-dark&hide_border=true&bg_color=110121" />
 
 
 
